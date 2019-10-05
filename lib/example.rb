@@ -1,13 +1,13 @@
 # Use this space to code along with the readme
 
 phrase = "Hello World!"
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
+
+def greeting(a_phrase)
+  puts a_phrase
+end
+
+greeting(phrase)
+greeting(phrase)
+greeting(phrase)
+greeting(phrase)
+greeting(phrase)
