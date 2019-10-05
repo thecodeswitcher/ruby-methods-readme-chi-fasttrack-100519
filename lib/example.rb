@@ -2,12 +2,9 @@
 
 phrase = "Hello World!"
 puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
+
+def greeting(a_phrase)
+  puts a_phrase
+end
+
+greeting(a_phrase)
