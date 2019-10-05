@@ -7,3 +7,7 @@ def greeting(a_phrase)
 end
 
 greeting(phrase)
+greeting(phrase)
+greeting(phrase)
+greeting(phrase)
+greeting(phrase)
