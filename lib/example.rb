@@ -7,4 +7,4 @@ def greeting(a_phrase)
   puts a_phrase
 end
 
-greeting(a_phrase)
+greeting(phrase)
